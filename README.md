@@ -2,7 +2,7 @@
 
 
 ### About Me ⚡
-My name is Kendrick Kwiwongbaye, and I'm a full stack developer. My major areas of expertise are full stack development and graphic design. I really enjoy languages and frameworks like React.I'm also a freelance graphic designer that specializes in Photoshop. I'm a graduate from a 4-year university with a Bachelors of Science in Information Systems. 
+I am a full stack developer by the name of Kendrick Kwiwongbaye. Full stack development and graphic design are two of my main areas of competence. Languages and frameworks like React are incredibly fun for me. I have a Bachelor of Science in Information Systems from a 4-year university.
 
 ### Contact Me 📫
 Feel free to contact me via Linkedin (Link below profile picture).
